@@ -62,7 +62,8 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :writing_hand: Blog Posts :
-# StackOverflow Activity
+### :writing_hand: StackOverflow Activity :
+
 <!-- STACKOVERFLOW:START -->
+
 <!-- STACKOVERFLOW:END -->
