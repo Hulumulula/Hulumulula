@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hulumulula&style=flat-square&color=blue" alt=""/>
   <h1>
-        Hey there
+        ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕜𝕤𝕒𝕟𝕕𝕣
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -24,7 +24,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 🇷🇺.
+I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
@@ -32,7 +32,7 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/Assasin.klimov@yandex.ru-yellow?style=flat&logo=Linkedin&logoColor=white)](mailto:Assasin.klimov@yandex.ru)
+- :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/Assasin.klimov@yandex.ru-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Assasin.klimov@yandex.ru)
 
 ---
 
@@ -47,6 +47,22 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT"  alt="QT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT"  alt="QT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hulumulula&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulumulula&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
