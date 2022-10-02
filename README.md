@@ -14,13 +14,14 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hulumulula&style=flat-square&color=blue" alt=""/>
   <h1>
-        ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕜𝕤𝕒𝕟𝕕𝕣
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=7000&pause=3000&color=F771D2&center=true&width=435&lines=%E2%84%8D%F0%9D%95%96%F0%9D%95%AA+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C+%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%B8%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%9C%F0%9D%95%A4%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95%F0%9D%95%A3+" alt="Typing SVG" /></a>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=gradientBlue" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ### :woman_technologist: About Me :
@@ -62,6 +63,6 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :writing_hand: Blog Posts :
-
+# StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
