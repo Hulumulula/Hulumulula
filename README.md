@@ -19,9 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=gradientBlue" alt="Jokes Card" />
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ### :woman_technologist: About Me :
