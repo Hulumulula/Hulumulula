@@ -64,6 +64,6 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
 ### :writing_hand: StackOverflow Activity :
 
 <!-- STACKOVERFLOW:START -->
-- [How to remove hieroglyphs when connecting PostgreSQL](https://stackoverflow.com/questions/73938878/how-to-remove-hieroglyphs-when-connecting-postgresql)
+- [How to remove hieroglyphs when connecting PostgreSQL [duplicate]](https://stackoverflow.com/questions/73938878/how-to-remove-hieroglyphs-when-connecting-postgresql)
 - [How do I log in to a site with a double request?](https://stackoverflow.com/questions/73923259/how-do-i-log-in-to-a-site-with-a-double-request)
 <!-- STACKOVERFLOW:END -->
