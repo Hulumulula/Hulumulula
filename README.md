@@ -23,13 +23,17 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my spare time, I solve problems on LeetCode and read technical articles.
+
+- :man_office_worker: I am very interested in development in the areas of:  Blockchain, AI, Web(Backend or mb Frontend), Desktop, InfoSec.
+
+- :zany_face: I am always open to new interesting proposals and I like hard work.
 
 - :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/Assasin.klimov@yandex.ru-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Assasin.klimov@yandex.ru)
 
@@ -49,6 +53,7 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
@@ -58,12 +63,3 @@ I am a Web and Desktop Developer <img src="https://media.giphy.com/media/WUlplcM
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hulumulula&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulumulula&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: StackOverflow Activity :
-
-<!-- STACKOVERFLOW:START -->
-- [How to remove hieroglyphs when connecting PostgreSQL [duplicate]](https://stackoverflow.com/questions/73938878/how-to-remove-hieroglyphs-when-connecting-postgresql)
-- [How do I log in to a site with a double request?](https://stackoverflow.com/questions/73923259/how-do-i-log-in-to-a-site-with-a-double-request)
-<!-- STACKOVERFLOW:END -->
